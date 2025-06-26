@@ -1,4 +1,4 @@
-#Smart Food Spoilage Detector
+Smart Food Spoilage Detector
 
 ##Problem Statement
 Food spoilage is a major contributor to food waste globally, leading to economic losses, health risks, and environmental concerns. Traditional methods of detecting spoilage often rely on human senses or manual inspection, which are inconsistent and not scalable for large kitchens, food suppliers, or households.
