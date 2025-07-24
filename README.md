@@ -1,16 +1,16 @@
 Smart Food Spoilage Detector
 
-##Problem Statement
+Problem Statement
 Food spoilage is a major contributor to food waste globally, leading to economic losses, health risks, and environmental concerns. Traditional methods of detecting spoilage often rely on human senses or manual inspection, which are inconsistent and not scalable for large kitchens, food suppliers, or households.
 There is a growing need for an intelligent, automated system that can accurately detect food spoilage at an early stage to reduce waste and ensure food safety.
 
-##Solution
+Solution
 This project presents a Smart Food Spoilage Detector using deep learning . Built with TensorFlow and deployed via Streamlit, the system classifies food items as "Fresh" or "Spoiled" based on image data. It leverages a Convolutional Neural Network (CNN) trained on a curated dataset to make real-time predictions.
 
-#Dataset Used
+Dataset Used
 https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
-## Tech Stack Used
+Tech Stack Used
 - Python
 - Streamlit
 - Scikit-learn
