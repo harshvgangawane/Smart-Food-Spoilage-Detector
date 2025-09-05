@@ -36,10 +36,10 @@ streamlit run app.py
 ```
 
 ## Project Architecture
-Data Layer: Image datasets in data/
-Model Layer: Trained Keras model in model.keras
-Interface Layer: Streamlit app in app.py
-Notebooks: Data exploration and model training in smart_food_spoilage.ipynb
+-Data Layer: Image datasets in data/
+-Model Layer: Trained Keras model in model.keras
+-Interface Layer: Streamlit app in app.py
+-Notebooks: Data exploration and model training in smart_food_spoilage.ipynb
 
 ## Notebooks
 smart_food_spoilage.ipynb: Data exploration, preprocessing, model training, and evaluation
